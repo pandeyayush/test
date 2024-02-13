@@ -1,4 +1,4 @@
 # test
 first repo
 <br>
-author - ayush pandey
+author - ayush pandey(ayu)
